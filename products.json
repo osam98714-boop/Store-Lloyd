@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "bot_1792599493600",
+    "name": "Bot Batman",
+    "price": 10,
+    "category": "Whatsapp bot",
+    "lang": "Node.js",
+    "tag": "الأكثر طلباً",
+    "img": "https://i.ibb.co/Jjg5VkzF/1792515480073.jpg",
+    "desc": "بوت اعمال"
+  }
+]
